@@ -8,8 +8,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame 
 <p align="left">
- <a href="in/rafael-andres-rossel-galarza-47b8bb214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
- <a href="https://www.instagram.com/rafael_rossel_galarza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/bryan-hector-rafael-andia-b85821296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
